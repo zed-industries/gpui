@@ -1,4 +1,4 @@
-# gpui
+# GPUI
 
 See you in a few weeks.
 
